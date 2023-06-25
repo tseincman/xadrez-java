@@ -13,7 +13,7 @@ public class Piece {
 		return board;
 	}
 
-	public boolean[][] possibleMoves(){
+	/*public boolean[][] possibleMoves(){
 		//a fazer
 	}
 	
@@ -23,6 +23,6 @@ public class Piece {
 	
 	public boolean isThereAnyPossibleMove() {
 		//a fazer
-	}
+	}*/
 
 }
